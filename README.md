@@ -1,24 +1,81 @@
-![MasterHead](https://www.edizayn.net/wp-content/uploads/2017/10/banner-web-design-575abb60144b7-1200x393.png)
-<h1 align="center">Hi 👋, I'm Yücel Aybey</h1>
-<h3 align="center">A passionate Web Developer from Turkey</h3>
+<div align="center">
 
-- 💬 Ask me about **.Net Framework**
+  <!-- DİNAMİK BAŞLIK ANİMASYONU -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Full+Stack+%26+AI+Developer;Yapay+Zeka+%26+Web+Tutkunu;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi" alt="Typing SVG" />
 
-- 📫 How to reach me **yucelaybey01@gmail.com**
+  <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linktr.ee/yucelaybey" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="yclgamer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yucelaybey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yucelaybey" height="30" width="40" /></a>
-<a href="https://instagram.com/yclgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yclgamer" height="30" width="40" /></a>
-</p>
+  <!-- PROFIL GÖRÜNTÜLENME SAYACI & SOSYAL MEDYA BADGES -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yucelaybey&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <a href="https://linkedin.com/in/yucelaybey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/yucelaybey" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://linktr.ee/yucelaybey" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+    <a href="mailto:yucelaybey06@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yucelaybey&show_icons=true&locale=en&layout=compact" alt="yucelaybey" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yucelaybey&show_icons=true&locale=en" alt="yucelaybey" /></p>
+### 👨‍💻 Hakkımda
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&" alt="yucelaybey" /></p>
+- 🔭 **Geliştirdiklerim:** Otonom yapay zeka sistemleri (X AI Auto Poster), RAG tabanlı vektör arama chatbotları ve modern full-stack web uygulamaları.
+- 🌱 **Aktif Odak Noktam:** Agentik AI mimarisi, LLM & Embeddings entegrasyonu, Node.js & Python ekosistemi.
+- 💬 **Sohbet Alanları:** .NET, C#, Node.js, Yapay Zeka (RAG) ve otomasyon projeleri.
+- ⚡ **Motto:** *Kahveyi yüksek kaliteli ve otonom sistem kodlarına dönüştürüyorum.* ☕
 
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,tailwind,nodejs,express,python,postgres,mongodb,docker,git,github,vscode&perline=8" alt="yucelaybey Tech Stack" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="yucelaybey GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- SERİ (STREAK) İSTATİSTİĞİ -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&theme=tokyonight&hide_border=true" width="95%" alt="yucelaybey Streak Stats" />
+</div>
+
+---
+
+### 🔥 Öne Çıkan Çalışmalar
+
+| Proje | Açıklama | Teknolojiler | Repo |
+| :--- | :--- | :--- | :---: |
+| 🚀 **X AI Auto Poster** | Twitter/X için otonom yapay zeka içerik üretici ve otomatik paylaşım sistemi | Node.js, AI, Twitter API | [İncele 🔗](https://github.com/yucelaybey) |
+| 🤖 **RAG Chatbot & Embeddings** | E-ticaret ürünleri için akıllı vektör arama tabanlı asistan mimarisi | Python, BERT (ONNX), Vector DB | [İncele 🔗](https://github.com/yucelaybey) |
+
+---
+
+### 🐍 GitHub Katkı Grafiği (Snake Animation)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>✨ Yücel AYBEY (@yucelaybey) tarafından geliştirildi.</i></sub>
+</div>
