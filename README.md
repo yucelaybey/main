@@ -157,9 +157,9 @@
 
 ### 💬 Günün Yazılımcı Sözü
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&locale=tr" alt="Dev Quote Turkish" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=3000&color=38BDAE&center=true&vCenter=true&width=650&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Clean+Code" alt="Turkish Developer Quotes" />
+</div>
 
 ---
 
