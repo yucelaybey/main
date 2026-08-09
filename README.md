@@ -139,9 +139,9 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucelaybey&theme=tokyonight" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yucelaybey&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@
 ### 💬 Günün Yazılımcı Sözü
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&locale=tr" alt="Dev Quote Turkish" />
 </p>
 
 ---
