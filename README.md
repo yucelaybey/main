@@ -1,14 +1,7 @@
 <div align="center">
 
-  <!-- DİL DEĞİŞTİRME BUTONU -->
-  <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/Language-English_Version-blue?style=for-the-badge&logo=googletranslate" alt="Read in English" />
-  </a>
-
-  <br/><br/>
-
   <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Backend+Developer;Mobil+Oyun+%26+Yaz%C1%B1l%C1%B1m+Geli%C5%9Ftiricisi;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Yaz%C1%B1l%C1%B1m+Geli%C5%9Ftiricisi;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
@@ -26,7 +19,7 @@
 
 ---
 
-### 📊 GitHub Profil Özet Kartı
+### 📊 GitHub Profile Overview / Profil Özet Kartı
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucelaybey&theme=tokyonight" alt="yucelaybey Profile Details" width="95%" />
@@ -34,19 +27,19 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Hakkımda / About Me
 
-- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & **Backend & Mobil Oyun Geliştiricisi**.
-- 👑 **Amiral Gemisi Projem:** **[ECommerce-Microservices-Platform](https://github.com/yucelaybey/ECommerce-Microservices-Platform)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3 tabanlı devasa e-ticaret platformu.
-- 🤖 **Otonom AI Sistemim:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan tam otonom teknoloji haber botu.
-- 📱 **Yayınlanan Mobil Oyunlarım:** Google Play Store'da yayınlanmış **Quest Words** ve **Arrow Path** oyunları.
+- 🎓 **Eğitim / Education:** Bilgisayar Mühendisliği Öğrencisi & **Backend & Mobil Oyun Geliştiricisi** *(Computer Engineering Student & Backend & Game Developer)*.
+- 👑 **Amiral Gemisi Projem / Flagship Project:** **[ECommerce-Microservices-Platform](https://github.com/yucelaybey/ECommerce-Microservices-Platform)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3.
+- 🤖 **Otonom AI Sistemim / Autonomous AI System:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan otonom teknoloji haber botu.
+- 📱 **Yayınlanan Mobil Oyunlarım / Published Games:** Google Play Store'da yayınlanmış **Quest Words** ve **Arrow Path** oyunları.
 - 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Mobil Oyun Geliştirme, Backend (.NET 8.0, Node.js, Python).
-- 💬 **İletişim:** Backend projeleri, mikroservis mimarileri ve mobil oyun geliştirme için her zaman iletişime geçebilirsin.
-- ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod.*
+- 💬 **İletişim / Contact:** Open for collaborations on Backend Microservices, System Architecture & Game Development.
+- ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod. (Clean Architecture, High Performance, Elegant Code.)*
 
 ---
 
-### 📱 Yayınlanan Mobil Oyunlarım & Uygulamalarım
+### 📱 Yayınlanan Mobil Oyunlarım & Uygulamalarım / Mobile Games & Apps
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
@@ -70,16 +63,16 @@
 
 <div align="center">
 
-| Oyun | Açıklama |
-| :--- | :--- |
-| 🔤 **Quest Words — Brain Puzzle** | Zihnini zorlayacak, kelime dağarcığını geliştirecek sürükleyici kelime bulmaca oyunu! İpuçlarına göre harfleri birleştir, zorlu seviyeleri geç. |
-| 🏹 **Arrow Path — Tap To Escape** | Labirentten kaçış heyecanı! Okların yönlerini doğru analiz et, engelleri aş, dokunuşlarını zamanla ve kaçış yolunu bul! |
+| Oyun / Game | Açıklama (TR) | Description (EN) |
+| :--- | :--- | :--- |
+| 🔤 **Quest Words — Brain Puzzle** | Zihnini zorlayacak, kelime dağarcığını geliştirecek sürükleyici kelime bulmaca oyunu! İpuçlarına göre harfleri birleştir, zorlu seviyeleri geç. | An immersive word puzzle game designed to challenge your mind and expand your vocabulary! Connect letter blocks based on hints. |
+| 🏹 **Arrow Path — Tap To Escape** | Labirentten kaçış heyecanı! Okların yönlerini doğru analiz et, engelleri aş, dokunuşlarını zamanla ve kaçış yolunu bul! | The ultimate maze escape challenge! Analyze arrow directions, time your taps, dodge obstacles, and navigate your way out! |
 
 </div>
 
 ---
 
-### 🛠️ Teknolojiler & Yetenekler
+### 🛠️ Teknolojiler & Yetenekler / Tech Stack
 
 <p align="center">
   <b>Diller & Backend:</b><br/>
@@ -104,28 +97,28 @@
 
 ---
 
-### 🔥 Öne Çıkan Çalışmalar & Projeler
+### 🔥 Öne Çıkan Çalışmalar & Projeler / Featured Repositories
 
 <div align="center">
 
-| Proje İsmi | Açıklama | Teknolojiler | Repo Bağlantısı |
+| Proje İsmi / Name | Açıklama / Description | Teknolojiler | Repo Bağlantısı |
 | :--- | :--- | :--- | :---: |
-| 👑 **ECommerce Microservices Platform** | Clean Architecture (DDD), CQRS, MediatR, API Gateway, RabbitMQ, Elasticsearch, Redis ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Microservices` `RabbitMQ` `Elasticsearch` `Vue 3` | [İncele 🔗](https://github.com/yucelaybey/ECommerce-Microservices-Platform) |
-| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele 🔗](https://github.com/yucelaybey/x-ai-autoposter) |
-| 🛍️ **MultiVendor Shopping Platform** | API Gateway yönlendirmesi, izole DTO katmanı ve WebUI arayüzüne sahip çok mağazalı e-ticaret mikroservis sistemi. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [İncele 🔗](https://github.com/yucelaybey/MultiVendor-Shopping-Platform) |
-| 🎬 **Vue Movie Search App** | Top 100 film listesi, anlık canlı film arama ve detay kartlarına sahip reaktif Vue 3 web uygulaması. | `Vue 3` `Vite` `JavaScript` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Vue-Movie-Search-App) |
-| 🛒 **ASP.NET Core E-Commerce App** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş e-ticaret platformu. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [İncele 🔗](https://github.com/yucelaybey/AspNetCore-ECommerce-App) |
-| 🚗 **CarBook Rental Platform** | CQRS & Mediator Design Pattern mimarisi kullanılarak geliştirilmiş araç kiralama portalı. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [İncele 🔗](https://github.com/yucelaybey/CarBook-Rental-Platform) |
-| 🏨 **Hotel Reservation System** | REST API entegrasyonu ve admin yönetim paneli olan otel rezervasyon platformu. | `JavaScript` `HTML/CSS` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Hotel-Reservation-System) |
-| 💻 **Portfolio Management System** | ASP.NET Core Identity Core altyapılı, dinamik admin panelli portfolyo web sitesi. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [İncele 🔗](https://github.com/yucelaybey/Portfolio-Management-System) |
-| 🏥 **Hospital Management System (MHRS)** | Yönetici ve Hasta giriş panelleri bulunan randevu ve doktor kontrol sistemli Hastane Bilgi Yönetim Sistemi. | `C#` `.NET` `MSSQL` | [İncele 🔗](https://github.com/yucelaybey/Hospital-Management-System) |
-| 📚 **Library Automation System** | Kütüphane kitap takip ve otomasyon yönetim sistemi. | `Vue.js` `JavaScript` `HTML/CSS` | [İncele 🔗](https://github.com/yucelaybey/Library-Automation-System) |
+| 👑 **ECommerce Microservices Platform** | Clean Architecture (DDD), CQRS, MediatR, API Gateway, RabbitMQ, Elasticsearch, Redis ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Microservices` `RabbitMQ` `Elasticsearch` `Vue 3` | [İncele / View 🔗](https://github.com/yucelaybey/ECommerce-Microservices-Platform) |
+| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele / View 🔗](https://github.com/yucelaybey/x-ai-autoposter) |
+| 🛍️ **MultiVendor Shopping Platform** | API Gateway yönlendirmesi, izole DTO katmanı ve WebUI arayüzüne sahip çok mağazalı e-ticaret mikroservis sistemi. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [İncele / View 🔗](https://github.com/yucelaybey/MultiVendor-Shopping-Platform) |
+| 🎬 **Vue Movie Search App** | Top 100 film listesi, anlık canlı film arama ve detay kartlarına sahip reaktif Vue 3 web uygulaması. | `Vue 3` `Vite` `JavaScript` `REST API` | [İncele / View 🔗](https://github.com/yucelaybey/Vue-Movie-Search-App) |
+| 🛒 **ASP.NET Core E-Commerce App** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş e-ticaret platformu. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [İncele / View 🔗](https://github.com/yucelaybey/AspNetCore-ECommerce-App) |
+| 🚗 **CarBook Rental Platform** | CQRS & Mediator Design Pattern mimarisi kullanılarak geliştirilmiş araç kiralama portalı. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [İncele / View 🔗](https://github.com/yucelaybey/CarBook-Rental-Platform) |
+| 🏨 **Hotel Reservation System** | REST API entegrasyonu ve admin yönetim paneli olan otel rezervasyon platformu. | `JavaScript` `HTML/CSS` `REST API` | [İncele / View 🔗](https://github.com/yucelaybey/Hotel-Reservation-System) |
+| 💻 **Portfolio Management System** | ASP.NET Core Identity Core altyapılı, dinamik admin panelli portfolyo web sitesi. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [İncele / View 🔗](https://github.com/yucelaybey/Portfolio-Management-System) |
+| 🏥 **Hospital Management System (MHRS)** | Yönetici ve Hasta giriş panelleri bulunan randevu ve doktor kontrol sistemli Hastane Bilgi Yönetim Sistemi. | `C#` `.NET` `MSSQL` | [İncele / View 🔗](https://github.com/yucelaybey/Hospital-Management-System) |
+| 📚 **Library Automation System** | Kütüphane kitap takip ve otomasyon yönetim sistemi. | `Vue.js` `JavaScript` `HTML/CSS` | [İncele / View 🔗](https://github.com/yucelaybey/Library-Automation-System) |
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub İstatistikleri / Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucelaybey&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -139,7 +132,7 @@
 
 ---
 
-### 📈 GitHub Aktivite Grafiği
+### 📈 GitHub Aktivite Grafiği / Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yucelaybey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
@@ -147,7 +140,7 @@
 
 ---
 
-### 🐍 GitHub Katkı Grafiği Yılan Animasyonu
+### 🐍 GitHub Katkı Grafiği Yılan Animasyonu / Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
@@ -155,7 +148,7 @@
 
 ---
 
-### 💬 Günün Yazılımcı Sözü
+### 💬 Günün Yazılımcı Sözü / Developer Quote
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=3000&color=38BDAE&center=true&vCenter=true&width=650&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Clean+Code" alt="Turkish Developer Quotes" />
@@ -164,5 +157,5 @@
 ---
 
 <div align="center">
-  <sub><i>⚡ Yücel AYBEY (@yucelaybey) • GitHub Profil Sayfası</i></sub>
+  <sub><i>⚡ Yücel AYBEY (@yucelaybey) • GitHub Profile Page</i></sub>
 </div>
