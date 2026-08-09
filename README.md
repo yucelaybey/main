@@ -28,11 +28,12 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & Tutkulu Yazılım Geliştirici.
-- 🚀 **Aktif Projeler:** Cloudflare Workers & Workers AI tabanlı otonom X (Twitter) botu, RAG tabanlı vektör arama mimarileri ve .NET 8.0 kurumsal web uygulamaları.
-- 💡 **Uzmanlık & İlgi Alanları:** Yapay Zeka (LLM / RAG / Embeddings), Otonom Sistemler, Full-Stack Web Geliştirme (.NET Core & Node.js), Mikroservis & Design Patterns (Mediator).
-- 💬 **İletişim:** Web geliştirme, Yapay Zeka otomasyonları ve açık kaynak projeler için her zaman yazabilirsin.
-- ☕ **Motto:** *Mükemmel mimari, temiz kod ve kesintisiz öğrenme.*
+- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & Kurumsal Yazılım Architect Adayı.
+- 👑 **Ana Odak (Amiral Gemisi Projem):** **[ECommerceProject](https://github.com/yucelaybey/ECommerceProject)** — .NET 8.0 Clean (Onion) Architecture, Microservices, API Gateway ve Vue.js 3 tabanlı devasa e-ticaret platformu.
+- 🚀 **Aktif Geliştirdiklerim:** Cloudflare Workers & Workers AI tabanlı otonom X botu, RAG tabanlı vektör arama mimarileri ve .NET Core mikroservisler.
+- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Yapay Zeka (LLM / RAG / Embeddings), Full-Stack Web Geliştirme (.NET 8.0 & Vue.js & Node.js).
+- 💬 **İletişim:** Web projeleri, mikroservis mimarileri ve yapay zeka otomasyonları için her zaman iletişime geçebilirsin.
+- ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod.*
 
 ---
 
@@ -48,7 +49,7 @@
 <p align="center">
   <b>Web & Frontend:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,nodejs,express&perline=8" alt="Frontend & Web" />
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,html,css,bootstrap,tailwind,nodejs,express&perline=9" alt="Frontend & Web" />
   </a>
 </p>
 
@@ -65,15 +66,18 @@
 
 <div align="center">
 
-| Proje İsmi | Açıklama | Teknolojiler | Bağlantı |
+| Proje İsmi | Açıklama | Teknolojiler | Repo Bağlantısı |
 | :--- | :--- | :--- | :---: |
-| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X (Twitter) gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [Detayları İncele 🔗](https://github.com/yucelaybey) |
-| 🧠 **RAG Chatbot & Vector Embeddings** | E-ticaret ürünleri için BERT (ONNX) ile 768 boyutlu vektör üreten, akıllı semantic arama ve Chatbot mimarisi. | `Python` `BERT` `ONNX` `Vector DB` `RAG` | [Detayları İncele 🔗](https://github.com/yucelaybey) |
-| 🛒 **E-Commerce Project (.NET 8.0)** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş kapsamlı e-ticaret platformu ve yönetim sistemi. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [Repo 🔗](https://github.com/yucelaybey/E-Commerce-Project-ASP-NET-8.0) |
-| 🚗 **CarBook (.NET 8.0 Mediator Pattern)** | CQRS & Mediator Design Pattern mimarisi kullanılarak geliştirilmiş araç kiralama ve portal sistemi. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [Repo 🔗](https://github.com/yucelaybey/CarBook_Project_AspNET_8.0) |
-| 🏨 **MyHotelReservation (Admin Panelli)** | REST API entegrasyonu, gelişmiş rezervasyon takibi ve admin yönetim paneli olan otel rezervasyon platformu. | `JavaScript` `HTML/CSS` `REST API` | [Repo 🔗](https://github.com/yucelaybey/Admin-Panelli-Otel-Rezervasyon-Sitesi-MyHotelReservation) |
-| 💻 **MyPortfolio (.NET 8.0 Identity)** | ASP.NET Core Identity Core altyapısı ile güçlendirilmiş, dinamik admin panelli portfolyo web sitesi. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [Repo 🔗](https://github.com/yucelaybey/Admin-Panelli-Portfolyo-Sitesi-MyPortfolio) |
-| 🏥 **MHRS Clone (Hastane Yönetim)** | Yönetici ve Hasta giriş panelleri bulunan, randevu ve doktor kontrol sistemli Hastane Bilgi Yönetim Sistemi. | `C#` `.NET` `MSSQL` | [Repo 🔗](https://github.com/yucelaybey/Hastane-Bilgi-Yonetim-Sistemi_MHRS_Clone) |
+| 👑 **ECommerceProject** *(En Büyük Proje)* | Clean Architecture (DDD), CQRS, MediatR, API Gateway ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Clean Arch` `Microservices` `Vue 3` `Gateway` | [İncele 🔗](https://github.com/yucelaybey/ECommerceProject) |
+| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele 🔗](https://github.com/yucelaybey/twitter-proje) |
+| 🧠 **RAG Chatbot & Embeddings** | E-ticaret ürünleri için BERT (ONNX) ile 768 boyutlu vektör üreten, akıllı semantic arama ve Chatbot mimarisi. | `Python` `BERT` `ONNX` `Vector DB` `RAG` | [İncele 🔗](https://github.com/yucelaybey) |
+| 🛍️ **MultiShoppingProject** | API Gateway yönlendirmesi, izole DTO katmanı ve WebUI arayüzüne sahip çok mağazalı e-ticaret mikroservis sistemi. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [İncele 🔗](https://github.com/yucelaybey/MultiShoppingProject) |
+| 🎬 **Vue.js Movies Database & Search** | Top 100 film listesi, anlık canlı film arama ve detay kartlarına sahip reaktif Vue 3 web uygulaması. | `Vue 3` `Vite` `JavaScript` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Vue-js-Movies-Database-And-Search-Movies) |
+| 🛒 **E-Commerce Project (.NET 8.0)** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş okul projesi e-ticaret platformu. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [İncele 🔗](https://github.com/yucelaybey/E-Commerce-Project-ASP-NET-8.0) |
+| 🚗 **CarBook (.NET 8.0 Mediator)** | CQRS & Mediator Design Pattern mimarisi kullanılarak geliştirilmiş araç kiralama portalı. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [İncele 🔗](https://github.com/yucelaybey/CarBook_Project_AspNET_8.0) |
+| 🏨 **MyHotelReservation (Admin Panelli)** | REST API entegrasyonu ve admin yönetim paneli olan otel rezervasyon platformu. | `JavaScript` `HTML/CSS` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Admin-Panelli-Otel-Rezervasyon-Sitesi-MyHotelReservation) |
+| 💻 **MyPortfolio (.NET 8.0 Identity)** | ASP.NET Core Identity Core altyapılı, dinamik admin panelli portfolyo web sitesi. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [İncele 🔗](https://github.com/yucelaybey/Admin-Panelli-Portfolyo-Sitesi-MyPortfolio) |
+| 🏥 **MHRS Clone (Hastane Yönetim)** | Yönetici ve Hasta giriş panelleri bulunan randevu ve doktor kontrol sistemli Hastane Bilgi Yönetim Sistemi. | `C#` `.NET` `MSSQL` | [İncele 🔗](https://github.com/yucelaybey/Hastane-Bilgi-Yonetim-Sistemi_MHRS_Clone) |
 
 </div>
 
