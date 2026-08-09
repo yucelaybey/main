@@ -48,43 +48,32 @@
 
 ### 📱 Published Mobile Games & Apps
 
-#### 🔤 1. Quest Words — Brain Puzzle
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="https://img.shields.io/badge/🔤_Quest_Words-Download_on_Google_Play-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="https://img.shields.io/badge/🏹_Arrow_Path-Download_on_Google_Play-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="./assets/quest-words.jpg" alt="Quest Words Brain Puzzle" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="./assets/arrow-path.jpg" alt="Arrow Path Tap To Escape" width="48%" />
+  </a>
+</p>
 
 <div align="center">
 
-  <p><b>🧠 An immersive word puzzle game designed to challenge your mind and expand your vocabulary!</b><br/>
-  Connect letter blocks based on hints, conquer tricky levels, and test your brainpower in the ultimate word hunt!</p>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Download_Now-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="./assets/quest-words.jpg" width="100%" alt="Quest Words Brain Puzzle Banner" />
-  </a>
-
-</div>
-
----
-
-#### 🏹 2. Arrow Path — Tap To Escape
-
-<div align="center">
-
-  <p><b>⚡ The ultimate maze escape challenge! Analyze arrow paths, dodge obstacles, and race against time!</b><br/>
-  Study arrow directions carefully, time your taps perfectly, and navigate your way out of complex labyrinth paths!</p>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Download_Now-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="./assets/arrow-path.jpg" width="100%" alt="Arrow Path Tap To Escape Banner" />
-  </a>
+| Game | Description |
+| :--- | :--- |
+| 🔤 **Quest Words — Brain Puzzle** | An immersive word puzzle game designed to challenge your mind and expand your vocabulary! Connect letter blocks based on hints and conquer tricky levels. |
+| 🏹 **Arrow Path — Tap To Escape** | The ultimate maze escape challenge! Analyze arrow directions, time your taps, dodge obstacles, and navigate your way out of complex labyrinth paths! |
 
 </div>
 

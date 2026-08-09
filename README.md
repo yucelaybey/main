@@ -48,43 +48,32 @@
 
 ### 📱 Yayınlanan Mobil Oyunlarım & Uygulamalarım
 
-#### 🔤 1. Quest Words — Brain Puzzle
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="https://img.shields.io/badge/🔤_Quest_Words-Google_Play_İndir-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="https://img.shields.io/badge/🏹_Arrow_Path-Google_Play_İndir-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="./assets/quest-words.jpg" alt="Quest Words Brain Puzzle" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="./assets/arrow-path.jpg" alt="Arrow Path Tap To Escape" width="48%" />
+  </a>
+</p>
 
 <div align="center">
 
-  <p><b>🧠 Zihnini zorlayacak, kelime dağarcığını geliştirecek sürükleyici kelime bulmaca oyunu!</b><br/>
-  İpuçlarına göre harfleri birleştir, zorlu seviyeleri geç ve kelime avında zekanı yarışarak en yüksek seviyelere ulaş!</p>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Hemen_İndir-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="./assets/quest-words.jpg" width="100%" alt="Quest Words Brain Puzzle Banner" />
-  </a>
-
-</div>
-
----
-
-#### 🏹 2. Arrow Path — Tap To Escape
-
-<div align="center">
-
-  <p><b>⚡ Labirentten kaçış heyecanı! Zamana ve engellere karşı mücadele edin!</b><br/>
-  Okların yönlerini doğru analiz et, engelleri aş, dokunuşlarını mükemmel zamanla ve en karmaşık labirentlerden kaçış yolunu bul!</p>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Hemen_İndir-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="./assets/arrow-path.jpg" width="100%" alt="Arrow Path Tap To Escape Banner" />
-  </a>
+| Oyun | Açıklama |
+| :--- | :--- |
+| 🔤 **Quest Words — Brain Puzzle** | Zihnini zorlayacak, kelime dağarcığını geliştirecek sürükleyici kelime bulmaca oyunu! İpuçlarına göre harfleri birleştir, zorlu seviyeleri geç. |
+| 🏹 **Arrow Path — Tap To Escape** | Labirentten kaçış heyecanı! Okların yönlerini doğru analiz et, engelleri aş, dokunuşlarını zamanla ve kaçış yolunu bul! |
 
 </div>
 
