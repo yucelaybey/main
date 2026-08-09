@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Full+Stack+Developer;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Backend+Developer;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi" alt="Typing SVG" />
 
   <br/>
 
@@ -18,21 +18,21 @@
 
 ---
 
-### 🏆 GitHub Başarı Trolleri (Trophies)
+### 📊 GitHub Profil Özet Kartı
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yucelaybey&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="yucelaybey Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucelaybey&theme=tokyonight" alt="yucelaybey Profile Details" width="95%" />
 </div>
 
 ---
 
 ### 👨‍💻 Hakkımda
 
-- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & Kurumsal Yazılım Architect Adayı.
+- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & **Backend Developer**.
 - 👑 **Amiral Gemisi Projem:** **[ECommerceProject](https://github.com/yucelaybey/ECommerceProject)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3 tabanlı devasa e-ticaret platformu.
 - 🤖 **Otonom AI Sistemim:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan tam otonom teknoloji haber botu.
-- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Yapay Zeka (LLM / RAG / Embeddings), Full-Stack Web Geliştirme (.NET 8.0 & Vue.js & Node.js).
-- 💬 **İletişim:** Web projeleri, mikroservis mimarileri ve yapay zeka otomasyonları için her zaman iletişime geçebilirsin.
+- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Yapay Zeka (LLM / RAG / Embeddings), Backend Geliştirme (.NET 8.0 & Node.js & Python).
+- 💬 **İletişim:** Backend projeleri, mikroservis mimarileri ve yapay zeka otomasyonları için her zaman iletişime geçebilirsin.
 - ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod.*
 
 ---
@@ -86,9 +86,9 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
