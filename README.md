@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- DİNAMİK BAŞLIK ANİMASYONU -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Full+Stack+%26+AI+Developer;Yapay+Zeka+%26+Web+Tutkunu;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi" alt="Typing SVG" />
+  <!-- DİNAMİK TYPING BAŞLIK -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Full+Stack+Developer;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi" alt="Typing SVG" />
 
   <br/>
 
@@ -18,64 +18,105 @@
 
 ---
 
+### 🏆 GitHub Başarı Trolleri (Trophies)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yucelaybey&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="yucelaybey Trophies" />
+</div>
+
+---
+
 ### 👨‍💻 Hakkımda
 
-- 🔭 **Geliştirdiklerim:** Otonom yapay zeka sistemleri (X AI Auto Poster), RAG tabanlı vektör arama chatbotları ve modern full-stack web uygulamaları.
-- 🌱 **Aktif Odak Noktam:** Agentik AI mimarisi, LLM & Embeddings entegrasyonu, Node.js & Python ekosistemi.
-- 💬 **Sohbet Alanları:** .NET, C#, Node.js, Yapay Zeka (RAG) ve otomasyon projeleri.
-- ⚡ **Motto:** *Kahveyi yüksek kaliteli ve otonom sistem kodlarına dönüştürüyorum.* ☕
+- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & Tutkulu Yazılım Geliştirici.
+- 🚀 **Aktif Projeler:** Cloudflare Workers & Workers AI tabanlı otonom X (Twitter) botu, RAG tabanlı vektör arama mimarileri ve .NET 8.0 kurumsal web uygulamaları.
+- 💡 **Uzmanlık & İlgi Alanları:** Yapay Zeka (LLM / RAG / Embeddings), Otonom Sistemler, Full-Stack Web Geliştirme (.NET Core & Node.js), Mikroservis & Design Patterns (Mediator).
+- 💬 **İletişim:** Web geliştirme, Yapay Zeka otomasyonları ve açık kaynak projeler için her zaman yazabilirsin.
+- ☕ **Motto:** *Mükemmel mimari, temiz kod ve kesintisiz öğrenme.*
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Teknolojiler & Yetenekler
 
-<div align="center">
+<p align="center">
+  <b>Diller & Backend:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,tailwind,nodejs,express,python,postgres,mongodb,docker,git,github,vscode&perline=8" alt="yucelaybey Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,cpp,c&perline=8" alt="Backend & Languages" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <b>Web & Frontend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,nodejs,express&perline=8" alt="Frontend & Web" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Veritabanı, Bulut & Araçlar:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,cloudflare,git,github,postman,vscode,visualstudio&perline=9" alt="Databases & Cloud & Tools" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🔥 Öne Çıkan Çalışmalar & Projeler
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="yucelaybey GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-
-  <!-- SERİ (STREAK) İSTATİSTİĞİ -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&theme=tokyonight&hide_border=true" width="95%" alt="yucelaybey Streak Stats" />
-</div>
-
----
-
-### 🔥 Öne Çıkan Çalışmalar
-
-| Proje | Açıklama | Teknolojiler | Repo |
+| Proje İsmi | Açıklama | Teknolojiler | Bağlantı |
 | :--- | :--- | :--- | :---: |
-| 🚀 **X AI Auto Poster** | Twitter/X için otonom yapay zeka içerik üretici ve otomatik paylaşım sistemi | Node.js, AI, Twitter API | [İncele 🔗](https://github.com/yucelaybey) |
-| 🤖 **RAG Chatbot & Embeddings** | E-ticaret ürünleri için akıllı vektör arama tabanlı asistan mimarisi | Python, BERT (ONNX), Vector DB | [İncele 🔗](https://github.com/yucelaybey) |
+| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X (Twitter) gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [Detayları İncele 🔗](https://github.com/yucelaybey) |
+| 🧠 **RAG Chatbot & Vector Embeddings** | E-ticaret ürünleri için BERT (ONNX) ile 768 boyutlu vektör üreten, akıllı semantic arama ve Chatbot mimarisi. | `Python` `BERT` `ONNX` `Vector DB` `RAG` | [Detayları İncele 🔗](https://github.com/yucelaybey) |
+| 🛒 **E-Commerce Project (.NET 8.0)** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş kapsamlı e-ticaret platformu ve yönetim sistemi. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [Repo 🔗](https://github.com/yucelaybey/E-Commerce-Project-ASP-NET-8.0) |
+| 🚗 **CarBook (.NET 8.0 Mediator Pattern)** | CQRS & Mediator Design Pattern mimarisi kullanılarak geliştirilmiş araç kiralama ve portal sistemi. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [Repo 🔗](https://github.com/yucelaybey/CarBook_Project_AspNET_8.0) |
+| 🏨 **MyHotelReservation (Admin Panelli)** | REST API entegrasyonu, gelişmiş rezervasyon takibi ve admin yönetim paneli olan otel rezervasyon platformu. | `JavaScript` `HTML/CSS` `REST API` | [Repo 🔗](https://github.com/yucelaybey/Admin-Panelli-Otel-Rezervasyon-Sitesi-MyHotelReservation) |
+| 💻 **MyPortfolio (.NET 8.0 Identity)** | ASP.NET Core Identity Core altyapısı ile güçlendirilmiş, dinamik admin panelli portfolyo web sitesi. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [Repo 🔗](https://github.com/yucelaybey/Admin-Panelli-Portfolyo-Sitesi-MyPortfolio) |
+| 🏥 **MHRS Clone (Hastane Yönetim)** | Yönetici ve Hasta giriş panelleri bulunan, randevu ve doktor kontrol sistemli Hastane Bilgi Yönetim Sistemi. | `C#` `.NET` `MSSQL` | [Repo 🔗](https://github.com/yucelaybey/Hastane-Bilgi-Yonetim-Sistemi_MHRS_Clone) |
 
----
-
-### 🐍 GitHub Katkı Grafiği (Snake Animation)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yucelaybey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucelaybey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&theme=tokyonight&hide_border=true" alt="Streak Stats" width="96%" />
+</p>
+
+---
+
+### 📈 GitHub Aktivite Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yucelaybey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🐍 GitHub Katkı Grafiği Yılan Animasyonu
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
+</p>
+
+---
+
+### 💬 Günün Yazılımcı Sözü
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
 <div align="center">
-  <sub><i>✨ Yücel AYBEY (@yucelaybey) tarafından geliştirildi.</i></sub>
+  <sub><i>⚡ Yücel AYBEY (@yucelaybey) • GitHub Profil Sayfası</i></sub>
 </div>
