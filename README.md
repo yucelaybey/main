@@ -29,9 +29,9 @@
 ### 👨‍💻 Hakkımda
 
 - 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & Kurumsal Yazılım Architect Adayı.
-- 👑 **Ana Odak (Amiral Gemisi Projem):** **[ECommerceProject](https://github.com/yucelaybey/ECommerceProject)** — .NET 8.0 Clean (Onion) Architecture, Microservices, API Gateway ve Vue.js 3 tabanlı devasa e-ticaret platformu.
-- 🚀 **Aktif Geliştirdiklerim:** Cloudflare Workers & Workers AI tabanlı otonom X botu, RAG tabanlı vektör arama mimarileri ve .NET Core mikroservisler.
-- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Yapay Zeka (LLM / RAG / Embeddings), Full-Stack Web Geliştirme (.NET 8.0 & Vue.js & Node.js).
+- 👑 **Amiral Gemisi Projem:** **[ECommerceProject](https://github.com/yucelaybey/ECommerceProject)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3 tabanlı devasa e-ticaret platformu.
+- 🤖 **Otonom AI Sistemim:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan tam otonom teknoloji haber botu.
+- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Yapay Zeka (LLM / RAG / Embeddings), Full-Stack Web Geliştirme (.NET 8.0 & Vue.js & Node.js).
 - 💬 **İletişim:** Web projeleri, mikroservis mimarileri ve yapay zeka otomasyonları için her zaman iletişime geçebilirsin.
 - ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod.*
 
@@ -68,8 +68,8 @@
 
 | Proje İsmi | Açıklama | Teknolojiler | Repo Bağlantısı |
 | :--- | :--- | :--- | :---: |
-| 👑 **ECommerceProject** *(En Büyük Proje)* | Clean Architecture (DDD), CQRS, MediatR, API Gateway ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Clean Arch` `Microservices` `Vue 3` `Gateway` | [İncele 🔗](https://github.com/yucelaybey/ECommerceProject) |
-| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele 🔗](https://github.com/yucelaybey/twitter-proje) |
+| 👑 **ECommerceProject** *(En Büyük Proje)* | Clean Architecture (DDD), CQRS, MediatR, API Gateway, RabbitMQ, Elasticsearch, Redis ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Microservices` `RabbitMQ` `Elasticsearch` `Vue 3` | [İncele 🔗](https://github.com/yucelaybey/ECommerceProject) |
+| 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele 🔗](https://github.com/yucelaybey/x-ai-autoposter) |
 | 🧠 **RAG Chatbot & Embeddings** | E-ticaret ürünleri için BERT (ONNX) ile 768 boyutlu vektör üreten, akıllı semantic arama ve Chatbot mimarisi. | `Python` `BERT` `ONNX` `Vector DB` `RAG` | [İncele 🔗](https://github.com/yucelaybey) |
 | 🛍️ **MultiShoppingProject** | API Gateway yönlendirmesi, izole DTO katmanı ve WebUI arayüzüne sahip çok mağazalı e-ticaret mikroservis sistemi. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [İncele 🔗](https://github.com/yucelaybey/MultiShoppingProject) |
 | 🎬 **Vue.js Movies Database & Search** | Top 100 film listesi, anlık canlı film arama ve detay kartlarına sahip reaktif Vue 3 web uygulaması. | `Vue 3` `Vite` `JavaScript` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Vue-js-Movies-Database-And-Search-Movies) |
