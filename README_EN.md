@@ -48,12 +48,43 @@
 
 ### 📱 Published Mobile Games & Apps
 
+#### 🔤 1. Quest Words — Brain Puzzle
+
 <div align="center">
 
-| Game | Promotional Banner | Description & Features | Google Play Download |
-| :--- | :---: | :--- | :---: |
-| 🔤 **Quest Words - Brain Puzzle** | <img src="./assets/quest-words.jpg" width="320" alt="Quest Words Banner"/> | An immersive word puzzle game designed to challenge your mind and expand your vocabulary! Connect letter blocks based on hints, conquer tricky levels, and test your brainpower in the ultimate word hunt. | [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.yclgamer.questword) |
-| 🏹 **Arrow Path - Tap To Escape** | <img src="./assets/arrow-path.jpg" width="320" alt="Arrow Path Banner"/> | The ultimate maze escape challenge! Analyze arrow directions, overcome obstacles, time your taps, and navigate your way out of complex labyrinth paths! | [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path) |
+  <p><b>🧠 An immersive word puzzle game designed to challenge your mind and expand your vocabulary!</b><br/>
+  Connect letter blocks based on hints, conquer tricky levels, and test your brainpower in the ultimate word hunt!</p>
+
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Download_Now-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
+    <img src="./assets/quest-words.jpg" width="100%" alt="Quest Words Brain Puzzle Banner" />
+  </a>
+
+</div>
+
+---
+
+#### 🏹 2. Arrow Path — Tap To Escape
+
+<div align="center">
+
+  <p><b>⚡ The ultimate maze escape challenge! Analyze arrow paths, dodge obstacles, and race against time!</b><br/>
+  Study arrow directions carefully, time your taps perfectly, and navigate your way out of complex labyrinth paths!</p>
+
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Download_Now-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
+    <img src="./assets/arrow-path.jpg" width="100%" alt="Arrow Path Tap To Escape Banner" />
+  </a>
 
 </div>
 
