@@ -31,7 +31,7 @@
 - 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & **Backend Developer**.
 - 👑 **Amiral Gemisi Projem:** **[ECommerceProject](https://github.com/yucelaybey/ECommerceProject)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3 tabanlı devasa e-ticaret platformu.
 - 🤖 **Otonom AI Sistemim:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan tam otonom teknoloji haber botu.
-- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Yapay Zeka (LLM / RAG / Embeddings), Backend Geliştirme (.NET 8.0 & Node.js & Python).
+- 💡 **Uzmanlık & İlgi Alanları:** Mikroservis Mimarisi, Clean Architecture & DDD, CQRS (MediatR), Olay Güdümlü Sistemler (RabbitMQ), Yapay Zeka Entegrasyonları, Backend Geliştirme (.NET 8.0 & Node.js & Python).
 - 💬 **İletişim:** Backend projeleri, mikroservis mimarileri ve yapay zeka otomasyonları için her zaman iletişime geçebilirsin.
 - ☕ **Motto:** *Mükemmel mimari, yüksek performans, temiz kod.*
 
@@ -70,7 +70,6 @@
 | :--- | :--- | :--- | :---: |
 | 👑 **ECommerceProject** *(En Büyük Proje)* | Clean Architecture (DDD), CQRS, MediatR, API Gateway, RabbitMQ, Elasticsearch, Redis ve Vue.js 3 ile geliştirilmiş kurumsal Mikroservis E-Ticaret Platformu. | `C#` `.NET 8.0` `Microservices` `RabbitMQ` `Elasticsearch` `Vue 3` | [İncele 🔗](https://github.com/yucelaybey/ECommerceProject) |
 | 🤖 **X AI Auto Poster** | Cloudflare Workers & Workers AI altyapısında 7/24 çalışan, RSS/API haberlerini tarayıp Türkçe X gönderisi oluşturan tam otonom haber botu. | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [İncele 🔗](https://github.com/yucelaybey/x-ai-autoposter) |
-| 🧠 **RAG Chatbot & Embeddings** | E-ticaret ürünleri için BERT (ONNX) ile 768 boyutlu vektör üreten, akıllı semantic arama ve Chatbot mimarisi. | `Python` `BERT` `ONNX` `Vector DB` `RAG` | [İncele 🔗](https://github.com/yucelaybey) |
 | 🛍️ **MultiShoppingProject** | API Gateway yönlendirmesi, izole DTO katmanı ve WebUI arayüzüne sahip çok mağazalı e-ticaret mikroservis sistemi. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [İncele 🔗](https://github.com/yucelaybey/MultiShoppingProject) |
 | 🎬 **Vue.js Movies Database & Search** | Top 100 film listesi, anlık canlı film arama ve detay kartlarına sahip reaktif Vue 3 web uygulaması. | `Vue 3` `Vite` `JavaScript` `REST API` | [İncele 🔗](https://github.com/yucelaybey/Vue-js-Movies-Database-And-Search-Movies) |
 | 🛒 **E-Commerce Project (.NET 8.0)** | ASP.NET Core 8.0 ve Identity Core ile geliştirilmiş okul projesi e-ticaret platformu. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [İncele 🔗](https://github.com/yucelaybey/E-Commerce-Project-ASP-NET-8.0) |
