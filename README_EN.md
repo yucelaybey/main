@@ -157,9 +157,11 @@
 
 ### 💬 Developer Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote English" />
-</p>
+> 💡 *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**  
+>  
+> 💡 *"Clean code always looks like it was written by someone who cares."*  
+> — **Robert C. Martin (Uncle Bob)**
 
 ---
 

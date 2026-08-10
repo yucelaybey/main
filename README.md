@@ -1,7 +1,14 @@
 <div align="center">
 
+  <!-- DİL DEĞİŞTİRME BUTONU -->
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/Language-English_Version-blue?style=for-the-badge&logo=googletranslate" alt="Read in English" />
+  </a>
+
+  <br/><br/>
+
   <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C%20Ben%20Y%C3%BCcel%20AYBEY!%20%F0%9F%90%8B;Bilgisayar%20M%C3%BChendisi%20%26%20Backend%20Developer;Mobil%20Oyun%20%26%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftiricisi;Yapay%20Zeka%20%26%20Otonom%20Sistemler%20Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Backend+Developer;Mobil+Oyun+%26+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisi;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu" alt="Typing SVG" />
 
   <br/>
 
@@ -19,11 +26,13 @@
 
 ---
 
-<!-- 🇹🇷 TÜRKÇE PROFİL VİTRİNİ -->
-<details open>
-<summary><h3>🇹🇷 TÜRKÇE PROFİL VİTRİNİ (Tıklayarak Aç / Kapat)</h3></summary>
+### 📊 GitHub Profil Özet Kartı
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucelaybey&theme=tokyonight" alt="yucelaybey Profile Details" width="95%" />
+</div>
+
+---
 
 ### 👨‍💻 Hakkımda
 
@@ -148,151 +157,14 @@
 
 ### 💬 Günün Yazılımcı Sözü
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=3000&color=38BDAE&center=true&vCenter=true&width=650&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Clean+Code" alt="Turkish Developer Quotes" />
-</div>
-
-</details>
-
----
-
-<!-- 🇬🇧 ENGLISH PROFILE VITRINE -->
-<details>
-<summary><h3>🇬🇧 ENGLISH PROFILE VITRINE (Click to Open / Close)</h3></summary>
-
-<br/>
-
-### 👨‍💻 About Me
-
-- 🎓 **Education:** Computer Engineering Student & **Backend & Mobile Game Developer**.
-- 👑 **Flagship Project:** **[ECommerce-Microservices-Platform](https://github.com/yucelaybey/ECommerce-Microservices-Platform)** — Enterprise .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3.
-- 🤖 **Autonomous AI System:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Fully autonomous tech news publisher running 7/24 on Cloudflare Workers, Workers AI & X API v2.
-- 📱 **Published Mobile Games:** **Quest Words** and **Arrow Path** live on the Google Play Store.
-- 💡 **Core Expertise:** Microservices Architecture, Clean Architecture & DDD, CQRS (MediatR), Event-Driven Systems (RabbitMQ), Mobile Game Development, Backend (.NET 8.0, Node.js, Python).
-- 💬 **Get In Touch:** Open for collaborations on Backend Microservices, System Architecture & Game Development.
-- ☕ **Motto:** *Clean Architecture, High Performance, Elegant Code.*
-
----
-
-### 📱 Published Mobile Games & Apps
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="https://img.shields.io/badge/🔤_Quest_Words-Download_on_Google_Play-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Quest Words" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="https://img.shields.io/badge/🏹_Arrow_Path-Download_on_Google_Play-green?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Arrow Path" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.questword" target="_blank">
-    <img src="./assets/quest-words.jpg" alt="Quest Words Brain Puzzle" width="48%" />
-  </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.yclgamer.arrow_path" target="_blank">
-    <img src="./assets/arrow-path.jpg" alt="Arrow Path Tap To Escape" width="48%" />
-  </a>
-</p>
-
-<div align="center">
-
-| Game | Description |
-| :--- | :--- |
-| 🔤 **Quest Words — Brain Puzzle** | An immersive word puzzle game designed to challenge your mind and expand your vocabulary! Connect letter blocks based on hints and conquer tricky levels. |
-| 🏹 **Arrow Path — Tap To Escape** | The ultimate maze escape challenge! Analyze arrow directions, time your taps, dodge obstacles, and navigate your way out of complex labyrinth paths! |
-
-</div>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <b>Languages & Backend:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,cpp,c&perline=8" alt="Backend & Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Web & Frontend:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,html,css,bootstrap,tailwind,nodejs,express&perline=9" alt="Frontend & Web" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Databases, Cloud & DevOps Tools:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,cloudflare,git,github,postman,vscode,visualstudio&perline=9" alt="Databases & Cloud & Tools" />
-  </a>
-</p>
-
----
-
-### 🔥 Featured Projects & Repositories
-
-<div align="center">
-
-| Project Name | Description | Tech Stack | Repository Link |
-| :--- | :--- | :--- | :---: |
-| 👑 **ECommerce Microservices Platform** | Enterprise Microservices system built with Clean Architecture (DDD), CQRS, MediatR, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue 3. | `C#` `.NET 8.0` `Microservices` `RabbitMQ` `Elasticsearch` `Vue 3` | [View Repo 🔗](https://github.com/yucelaybey/ECommerce-Microservices-Platform) |
-| 🤖 **X AI Auto Poster** | Autonomous tech news bot running 7/24 on Cloudflare Workers & Workers AI, publishing news to X (Twitter). | `Node.js` `TypeScript` `Workers AI` `Cloudflare D1` `X API v2` | [View Repo 🔗](https://github.com/yucelaybey/x-ai-autoposter) |
-| 🛍️ **MultiVendor Shopping Platform** | Multi-vendor e-commerce platform with API Gateway routing, isolated DTO layer & WebUI interface. | `C#` `.NET Core` `API Gateway` `WebUI` `DTO` | [View Repo 🔗](https://github.com/yucelaybey/MultiVendor-Shopping-Platform) |
-| 🎬 **Vue Movie Search App** | Reactive Vue 3 & Vite web application featuring top 100 movies listing, real-time movie search & detail view. | `Vue 3` `Vite` `JavaScript` `REST API` | [View Repo 🔗](https://github.com/yucelaybey/Vue-Movie-Search-App) |
-| 🛒 **ASP.NET Core E-Commerce App** | Full-fledged e-commerce platform built with ASP.NET Core 8.0, Identity Core & MSSQL. | `C#` `.NET 8.0` `MSSQL` `Bootstrap` | [View Repo 🔗](https://github.com/yucelaybey/AspNetCore-ECommerce-App) |
-| 🚗 **CarBook Rental Platform** | Car rental web platform engineered with CQRS & Mediator Design Patterns. | `C#` `.NET 8.0` `Mediator` `Entity Framework` | [View Repo 🔗](https://github.com/yucelaybey/CarBook-Rental-Platform) |
-| 🏨 **Hotel Reservation System** | Hotel booking & reservation management platform featuring REST API & Admin Dashboard. | `JavaScript` `HTML/CSS` `REST API` | [View Repo 🔗](https://github.com/yucelaybey/Hotel-Reservation-System) |
-| 💻 **Portfolio Management System** | Dynamic portfolio web application powered by ASP.NET Core 8.0 & Identity Core. | `C#` `.NET 8.0` `Identity Core` `SCSS` | [View Repo 🔗](https://github.com/yucelaybey/Portfolio-Management-System) |
-| 🏥 **Hospital Management System (MHRS)** | Hospital Information Management System with Admin & Patient panels. | `C#` `.NET` `MSSQL` | [View Repo 🔗](https://github.com/yucelaybey/Hospital-Management-System) |
-| 📚 **Library Automation System** | Library book tracking and management automation system. | `Vue.js` `JavaScript` `HTML/CSS` | [View Repo 🔗](https://github.com/yucelaybey/Library-Automation-System) |
-
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucelaybey&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yucelaybey&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&theme=tokyonight&hide_border=true" alt="Streak Stats" width="96%" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yucelaybey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Grid Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
-</p>
-
----
-
-### 💬 Developer Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote English" />
-</div>
-
-</details>
+> 💡 *"Önce problemi çözün, sonra kodu yazın."*  
+> — **John Johnson**  
+>  
+> 💡 *"Temiz kod; yazanın önemsediğini belli eden, okunması ve bakımı kolay koddur."*  
+> — **Robert C. Martin (Uncle Bob)**
 
 ---
 
 <div align="center">
-  <sub><i>⚡ Yücel AYBEY (@yucelaybey) • GitHub Profile Page</i></sub>
+  <sub><i>⚡ Yücel AYBEY (@yucelaybey) • GitHub Profil Sayfası</i></sub>
 </div>
