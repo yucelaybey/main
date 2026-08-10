@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- DİNAMİK TYPING BAŞLIK (ŞEFFAF VE GENİŞLETİLMİŞ) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Merhaba%2C+Ben+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <!-- DİNAMİK TYPING BAŞLIK -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Merhaba%2C+Ben+Yucel+AYBEY!+%F0%9F%90%8B;Bilgisayar+Muhendisi+%26+Backend+Developer;Mobil+Oyun+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🎓 **Eğitim:** Bilgisayar Mühendisliği Öğrencisi & **Backend & Mobil Oyun Geliştiricisi**.
+- 🎓 **Unvan:** Bilgisayar Mühendisi & **Backend & Mobil Oyun Geliştiricisi**.
 - 👑 **Amiral Gemisi Projem:** **[ECommerce-Microservices-Platform](https://github.com/yucelaybey/ECommerce-Microservices-Platform)** — .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3 tabanlı devasa e-ticaret platformu.
 - 🤖 **Otonom AI Sistemim:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Cloudflare Workers, Workers AI & X API v2 altyapısında 7/24 çalışan tam otonom teknoloji haber botu.
 - 📱 **Yayınlanan Mobil Oyunlarım:** Google Play Store'da yayınlanmış **Quest Words** ve **Arrow Path** oyunları.

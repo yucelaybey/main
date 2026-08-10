@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- DYNAMIC TYPING SVG HEADER (TRANSPARENT & WIDENED) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <!-- DYNAMIC TYPING SVG HEADER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineer+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
@@ -36,7 +36,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Computer Engineering Student & **Backend & Mobile Game Developer**.
+- 🎓 **Title:** Computer Engineer & **Backend & Mobile Game Developer**.
 - 👑 **Flagship Project:** **[ECommerce-Microservices-Platform](https://github.com/yucelaybey/ECommerce-Microservices-Platform)** — Enterprise .NET 8.0 Clean Architecture (DDD), Microservices, API Gateway, RabbitMQ, Elasticsearch, Redis & Vue.js 3.
 - 🤖 **Autonomous AI System:** **[X AI Auto Poster](https://github.com/yucelaybey/x-ai-autoposter)** — Fully autonomous tech news publisher running 7/24 on Cloudflare Workers, Workers AI & X API v2.
 - 📱 **Published Mobile Games:** **Quest Words** and **Arrow Path** live on the Google Play Store.
