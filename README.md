@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Yaz%C1%B1l%C1%B1m+Geli%C5%9Ftiricisi;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C%20Ben%20Y%C3%BCcel%20AYBEY!%20%F0%9F%90%8B;Bilgisayar%20M%C3%BChendisi%20%26%20Backend%20Developer;Mobil%20Oyun%20%26%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftiricisi;Yapay%20Zeka%20%26%20Otonom%20Sistemler%20Tutkunu" alt="Typing SVG" />
 
   <br/>
 
@@ -19,17 +19,11 @@
 
 ---
 
-### 📊 GitHub Profile Overview / Profil Özet Kartı
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucelaybey&theme=tokyonight" alt="yucelaybey Profile Details" width="95%" />
-</div>
-
----
-
 <!-- 🇹🇷 TÜRKÇE PROFİL VİTRİNİ -->
 <details open>
 <summary><h3>🇹🇷 TÜRKÇE PROFİL VİTRİNİ (Tıklayarak Aç / Kapat)</h3></summary>
+
+<br/>
 
 ### 👨‍💻 Hakkımda
 
@@ -76,6 +70,31 @@
 
 ---
 
+### 🛠️ Teknolojiler & Yetenekler
+
+<p align="center">
+  <b>Diller & Backend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,cpp,c&perline=8" alt="Backend & Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Web & Frontend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,html,css,bootstrap,tailwind,nodejs,express&perline=9" alt="Frontend & Web" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Veritabanı, Bulut & Araçlar:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,cloudflare,git,github,postman,vscode,visualstudio&perline=9" alt="Databases & Cloud & Tools" />
+  </a>
+</p>
+
+---
+
 ### 🔥 Öne Çıkan Çalışmalar & Projeler
 
 <div align="center">
@@ -95,6 +114,44 @@
 
 </div>
 
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucelaybey&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yucelaybey&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucelaybey&theme=tokyonight&hide_border=true" alt="Streak Stats" width="96%" />
+</p>
+
+---
+
+### 📈 GitHub Aktivite Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yucelaybey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🐍 GitHub Katkı Grafiği Yılan Animasyonu
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
+</p>
+
+---
+
+### 💬 Günün Yazılımcı Sözü
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=3000&color=38BDAE&center=true&vCenter=true&width=650&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Clean+Code" alt="Turkish Developer Quotes" />
+</div>
+
 </details>
 
 ---
@@ -102,6 +159,8 @@
 <!-- 🇬🇧 ENGLISH PROFILE VITRINE -->
 <details>
 <summary><h3>🇬🇧 ENGLISH PROFILE VITRINE (Click to Open / Close)</h3></summary>
+
+<br/>
 
 ### 👨‍💻 About Me
 
@@ -148,6 +207,31 @@
 
 ---
 
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <b>Languages & Backend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,cpp,c&perline=8" alt="Backend & Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Web & Frontend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,html,css,bootstrap,tailwind,nodejs,express&perline=9" alt="Frontend & Web" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Databases, Cloud & DevOps Tools:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,cloudflare,git,github,postman,vscode,visualstudio&perline=9" alt="Databases & Cloud & Tools" />
+  </a>
+</p>
+
+---
+
 ### 🔥 Featured Projects & Repositories
 
 <div align="center">
@@ -167,36 +251,9 @@
 
 </div>
 
-</details>
-
 ---
 
-### 🛠️ Teknolojiler & Yetenekler / Tech Stack
-
-<p align="center">
-  <b>Diller & Backend:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,cpp,c&perline=8" alt="Backend & Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Web & Frontend:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,html,css,bootstrap,tailwind,nodejs,express&perline=9" alt="Frontend & Web" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Veritabanı, Bulut & Araçlar:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,cloudflare,git,github,postman,vscode,visualstudio&perline=9" alt="Databases & Cloud & Tools" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub İstatistikleri / Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucelaybey&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -210,7 +267,7 @@
 
 ---
 
-### 📈 GitHub Aktivite Grafiği / Activity Graph
+### 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yucelaybey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
@@ -218,7 +275,7 @@
 
 ---
 
-### 🐍 GitHub Katkı Grafiği Yılan Animasyonu / Snake Animation
+### 🐍 Contribution Grid Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yucelaybey/yucelaybey/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
@@ -226,11 +283,13 @@
 
 ---
 
-### 💬 Günün Yazılımcı Sözü / Developer Quote
+### 💬 Developer Quote of the Day
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=3000&color=38BDAE&center=true&vCenter=true&width=650&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Clean+Code" alt="Turkish Developer Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote English" />
 </div>
+
+</details>
 
 ---
 
