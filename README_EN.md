@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- DYNAMIC TYPING SVG HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&background=1A1B27&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
@@ -158,7 +158,7 @@
 ### 💬 Developer Quote of the Day
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDAE&center=true&vCenter=true&width=680&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.%22+-+Brian+Kernighan;%22Perfection+is+achieved+when+there+is+nothing+left+to+take+away.%22+-+Antoine+de+Saint-Exupery;%22Controlling+complexity+is+the+essence+of+computer+programming.%22+-+Edsger+W.+Dijkstra;%22Good+programmers+write+code+that+humans+can+understand.%22+-+Martin+Fowler" alt="Developer Quote of the Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDAE&background=1A1B27&center=true&vCenter=true&width=680&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.%22+-+Brian+Kernighan;%22Perfection+is+achieved+when+there+is+nothing+left+to+take+away.%22+-+Antoine+de+Saint-Exupery;%22Controlling+complexity+is+the+essence+of+computer+programming.%22+-+Edsger+W.+Dijkstra;%22Good+programmers+write+code+that+humans+can+understand.%22+-+Martin+Fowler" alt="Developer Quote of the Day" />
 </div>
 
 ---

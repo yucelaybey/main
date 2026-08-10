@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Y%C3%BCcel+AYBEY!+%F0%9F%90%8B;Bilgisayar+M%C3%Bchendisi+%26+Backend+Developer;Mobil+Oyun+%26+Yaz%C4%B1l%C1%B1m+Geli%C5%9Ftiricisi;Yapay+Zeka+%26+Otonom+Sistemler+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&background=1A1B27&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
@@ -158,7 +158,7 @@
 ### 💬 Günün Yazılımcı Sözü
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDAE&center=true&vCenter=true&width=680&lines=%22%C3%96nce+problemi+%C3%A7%C3%B6z%C3%BCn%2C+sonra+kodu+yaz%C1%B1n.%22+-+John+Johnson;%22Temiz+kod%2C+okunmas%C1%B1+ve+bak%C1%B1m%C1%B1+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ay%C1%B1klamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22M%C3%BCkemmel+mimari%2C+basitlikten+do%C4%9Far.%22+-+Antoine+de+Saint-Exupery;%22Karma%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1+kontrol+etmek%2C+yaz%C1%B1l%C1%B1m%C4%B1n+%C3%B6z%C3%BCd%C3%BCr.%22+-+Edsger+W.+Dijkstra;%22%C3%87al%C4%B1%C5%9Fan+kod+bir+sanat%2C+s%C3%BCrd%C3%BCr%C3%BClebilir+kod+ustal%C4%B1kt%C4%B1r.%22+-+Martin+Fowler;%22Kodunuz+bir+insan+taraf%C4%B1ndan+okunmak+%C3%BCzere+yaz%C1%B1l%C1%B1r.%22+-+Abelson+%26+Sussman" alt="Günün Yazılımcı Sözü Animasyonu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDAE&background=1A1B27&center=true&vCenter=true&width=680&lines=%22Once+problemi+cozun%2C+sonra+kodu+yazin.%22+-+John+Johnson;%22Temiz+kod%2C+okunmasi+ve+bakimi+kolay+koddur.%22+-+Robert+C.+Martin;%22Hata+ayiklamak%2C+kod+yazmaktan+iki+kat+daha+zordur.%22+-+Brian+Kernighan;%22Mukemmel+mimari%2C+basitlikten+dogar.%22+-+Antoine+de+Saint-Exupery;%22Karmasikligi+kontrol+etmek%2C+yazilimin+ozudur.%22+-+Edsger+W.+Dijkstra;%22Calisan+kod+bir+sanat%2C+surdurulebilir+kod+ustaliktir.%22+-+Martin+Fowler" alt="Günün Yazılımcı Sözü" />
 </div>
 
 ---
