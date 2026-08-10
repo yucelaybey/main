@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- DİNAMİK TYPING BAŞLIK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&background=1A1B27&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <!-- DİNAMİK TYPING BAŞLIK (ŞEFFAF VE GENİŞLETİLMİŞ) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Merhaba%2C+Ben+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobil+Oyun+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 

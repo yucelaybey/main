@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- DYNAMIC TYPING SVG HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&background=1A1B27&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
+  <!-- DYNAMIC TYPING SVG HEADER (TRANSPARENT & WIDENED) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yucel+AYBEY!+%F0%9F%90%8B;Computer+Engineering+Student+%26+Backend+Developer;Mobile+Game+%26+Software+Developer;AI+%26+Autonomous+Systems+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
